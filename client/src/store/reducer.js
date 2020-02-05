@@ -1,5 +1,5 @@
 const initialState = {
-  user: [],
+  user: [{name:"John", email:"john@gmail.com", password:"test12"}],
   locations: []
 }
 
