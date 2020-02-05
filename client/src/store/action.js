@@ -1,0 +1,1 @@
+export const SAVED_LOCATION = 'SAVED_LOCATION'
